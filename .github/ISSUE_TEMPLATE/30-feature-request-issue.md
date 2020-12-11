@@ -6,3 +6,4 @@ assignees: AgileNix
 ---
 
 ### What is your suggestion?
+<!-- You can add anything you like as a feature request. The more detailed it is, the better. -->
