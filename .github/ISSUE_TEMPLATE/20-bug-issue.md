@@ -6,6 +6,8 @@ labels: 'bug'
 assignees: AgileNix
 ---
 
+<!-- Make sure to include all the steps to reproduce the bug. If it's obvious, i.e. it's a typo, then a screenshot and a link to the article/lecture will suffice. -->
+
 ### How have you realised this?
 
 ### What soultions have you tried to solve the task?
