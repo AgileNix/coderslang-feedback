@@ -14,7 +14,9 @@ assignees: AgileNix
 ### What soultions have you tried to solve the task?
 
 ### Your code
+<!--
 Use [markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) to hightlight the code
+-->
 
 ### Statuses of the checks
 
