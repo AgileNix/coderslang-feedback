@@ -6,12 +6,12 @@ labels: 'help wanted'
 assignees: AgileNix
 ---
 
-### What is you question?
+### What is your question?
 
 ### Have you tried to find an answer in [other issues](https://github.com/AgileNix/coderslang-feedback/issues?q=is%3Aissue)? 
 - [ ] Yes
 
-### What soultions have you tried to solve the task?
+### What solutions have you tried to solve the task?
 
 ### Your code
 <!--
